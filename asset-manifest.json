@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/scrimba-notes-app/static/css/main.77c16431.css",
+    "main.js": "/scrimba-notes-app/static/js/main.7a15296c.js",
+    "static/js/787.106f8021.chunk.js": "/scrimba-notes-app/static/js/787.106f8021.chunk.js",
+    "index.html": "/scrimba-notes-app/index.html",
+    "main.77c16431.css.map": "/scrimba-notes-app/static/css/main.77c16431.css.map",
+    "main.7a15296c.js.map": "/scrimba-notes-app/static/js/main.7a15296c.js.map",
+    "787.106f8021.chunk.js.map": "/scrimba-notes-app/static/js/787.106f8021.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77c16431.css",
+    "static/js/main.7a15296c.js"
+  ]
+}
