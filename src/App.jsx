@@ -68,7 +68,7 @@ function App() {
     }
     async function updateTitle(text) {
         const docRef = doc(db, "notes", currentNoteId)
-        text = window.prompt("type your title")
+        text = window.prompt("type your title") || "New note"
         await setDoc(docRef,
             { title: text, updatedAt: Date.now() },
             {merge: true})
